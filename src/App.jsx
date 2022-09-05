@@ -5,7 +5,10 @@ import Home from "./screen/Home";
 function App() {
   return (
     <>
-      <Header />
+      <div className="">
+        <Header />
+        <Home />
+      </div>
     </>
   );
 }

@@ -4,10 +4,18 @@ module.exports = {
   theme: {
     extend: {},
     backgroundColor: {
-      Headers: "#202020",
-      primary: "#181818",
+      primary: "#191A1F",
+      secondary: "#252831",
+      therd: "#fca311",
+      gray: "#e5e5e5",
       white: "#eee",
-      searchIcon: "#5D5D5D",
+    },
+    colors: {
+      primary: "#000000",
+      secondary: "#14213d",
+      therd: "#fca311",
+      gray: "#e5e5e5",
+      white: "#eee",
     },
   },
   plugins: [],
